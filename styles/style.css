@@ -161,7 +161,7 @@
     font-size: 22px;
     line-height: 28px;
     text-transform: uppercase;
-    word-spacing: 18px; 
+    word-spacing: 18px;
     color: rgba(255, 255, 255, 1);
 }
 
@@ -175,11 +175,11 @@
     text-transform: uppercase;
     background-color: transparent;
     color: rgba(255, 255, 255, 1);
-    
+
 }
 
 /*Секция - lots*/
-.lots { 
+.lots {
     position: relative;
     margin: 179px 24px 146px 24px;
     width: 1052px;
@@ -205,9 +205,9 @@
 }
 
 .lots__card-list-item {
-   list-style-type: none;
-   min-height: 563px; 
-   width: 334px;
+    list-style-type: none;
+    min-height: 563px;
+    width: 334px;
 }
 
 .card-link {
@@ -337,19 +337,19 @@
     font-style: normal;
     font-size: 18px;
     width: 240.52px;
-    height: 98px; 
+    height: 98px;
     line-height: 24.3px;
 }
 
 .footer__menu {
     width: 149px;
-    height: 64px; 
+    height: 64px;
     font-size: 18px;
 }
 
 .footer__links-list {
-   list-style: none;
-   text-align: center;
+    list-style: none;
+    text-align: center;
 }
 
 .footer__links-list-item {
@@ -378,7 +378,7 @@
 
 .footer__social-list-item {
     list-style-type: none;
-    
+
 }
 
 .footer__social-icon {
